@@ -1343,8 +1343,8 @@ header .h-footer a {
   padding-bottom: 0.2em;
 }
 .layout-gallery {
-  width: 96%;
-  margin: 0em auto;
+  width: 70%;
+  margin: auto;
   padding: 4em 0;
   border: 1px solid transparent;
 }
