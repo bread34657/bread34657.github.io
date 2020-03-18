@@ -1135,7 +1135,7 @@ header .h-footer a {
   background-color: #fff;
 }
 .layout-archive .i-tag {
-  color: #f00;
+  color: #000;
   letter-spacing: 2px;
   margin: 60px 0;
 }
@@ -1329,7 +1329,7 @@ header .h-footer a {
   margin-bottom: 10px;
 }
 .category .category-list li:hover {
-  color: #f00;
+  color: #000;
 }
 .category .category-list li .category-list-count {
   font-size: 0.9rem;
@@ -1339,7 +1339,7 @@ header .h-footer a {
   padding-bottom: 0.2em;
 }
 .category .category-list a:hover {
-  color: #f00;
+  color: #000;
   padding-bottom: 0.2em;
 }
 .layout-gallery {
@@ -1506,7 +1506,7 @@ main {
   text-align: center;
 }
 .layout-page-header i {
-  color: #f00;
+  color: #000;
   letter-spacing: 2px;
   text-align: inherit;
   margin: 60px 0 60px 0;
